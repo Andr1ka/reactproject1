@@ -1,0 +1,46 @@
+.CityDistanceCalculator {
+    margin-top: 20px;
+    text-align: center; /* Центрирование содержимого */
+}
+
+.input-container {
+    display: flex;
+    justify-content: center; /* центрирование по горизонтали */
+    gap: 10px; 
+    margin-bottom: 20px; 
+}
+
+.CityDistanceCalculator input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 100%;
+    max-width: 200px; 
+    box-sizing: border-box;
+}
+
+.CityDistanceCalculator button {
+    padding: 10px 20px;
+    background-color: #61dafb;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 1em;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+    .CityDistanceCalculator button:hover {
+        background-color: #21a1f1;
+    }
+
+.CityDistanceCalculator p {
+    margin-top: 20px;
+    font-size: 1.2em;
+    color: #333;
+    background-color: rgba(255, 255, 255, 0.8); /* полупрозрачный белый фон */
+    padding: 10px;
+    border-radius: 5px;
+    display: inline-block; /* чтобы фон был только вокруг текста */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* легкая тень для выделения */
+}

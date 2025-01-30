@@ -1,0 +1,15 @@
+.map-container {
+    height: 70%;
+    width: 70%;
+    aspect-ratio: 1 / 1; /* Квадратная форма */
+    max-width: 600px;
+    margin: 0 auto; /* Центрирование */
+    border-radius: 10px;
+}
+
+
+.leaflet-container { /* Стили для контейнера карты из react-leaflet (карта полностью занимает контейнер)*/
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+}

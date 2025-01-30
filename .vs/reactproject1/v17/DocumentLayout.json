@@ -1,0 +1,308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u0410\u043D\u0434\u0440\u0435\u0439\\React\\reactproject1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF036ABC-AB60-4FBB-83AA-BA5E18BC0600}|reactproject1.esproj|e:\\\u0430\u043D\u0434\u0440\u0435\u0439\\react\\reactproject1\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EF036ABC-AB60-4FBB-83AA-BA5E18BC0600}|reactproject1.esproj|solutionrelative:.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF036ABC-AB60-4FBB-83AA-BA5E18BC0600}|reactproject1.esproj|e:\\\u0430\u043D\u0434\u0440\u0435\u0439\\react\\reactproject1\\tsconfig.app.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EF036ABC-AB60-4FBB-83AA-BA5E18BC0600}|reactproject1.esproj|solutionrelative:tsconfig.app.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF036ABC-AB60-4FBB-83AA-BA5E18BC0600}|reactproject1.esproj|e:\\\u0430\u043D\u0434\u0440\u0435\u0439\\react\\reactproject1\\tsconfig.node.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EF036ABC-AB60-4FBB-83AA-BA5E18BC0600}|reactproject1.esproj|solutionrelative:tsconfig.node.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF036ABC-AB60-4FBB-83AA-BA5E18BC0600}|reactproject1.esproj|e:\\\u0430\u043D\u0434\u0440\u0435\u0439\\react\\reactproject1\\reactproject1.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EF036ABC-AB60-4FBB-83AA-BA5E18BC0600}|reactproject1.esproj|solutionrelative:reactproject1.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF036ABC-AB60-4FBB-83AA-BA5E18BC0600}|reactproject1.esproj|e:\\\u0430\u043D\u0434\u0440\u0435\u0439\\react\\reactproject1\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EF036ABC-AB60-4FBB-83AA-BA5E18BC0600}|reactproject1.esproj|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF036ABC-AB60-4FBB-83AA-BA5E18BC0600}|reactproject1.esproj|e:\\\u0430\u043D\u0434\u0440\u0435\u0439\\react\\reactproject1\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EF036ABC-AB60-4FBB-83AA-BA5E18BC0600}|reactproject1.esproj|solutionrelative:vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF036ABC-AB60-4FBB-83AA-BA5E18BC0600}|reactproject1.esproj|e:\\\u0430\u043D\u0434\u0440\u0435\u0439\\react\\reactproject1\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF036ABC-AB60-4FBB-83AA-BA5E18BC0600}|reactproject1.esproj|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF036ABC-AB60-4FBB-83AA-BA5E18BC0600}|reactproject1.esproj|e:\\\u0430\u043D\u0434\u0440\u0435\u0439\\react\\reactproject1\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EF036ABC-AB60-4FBB-83AA-BA5E18BC0600}|reactproject1.esproj|solutionrelative:eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF036ABC-AB60-4FBB-83AA-BA5E18BC0600}|reactproject1.esproj|e:\\\u0430\u043D\u0434\u0440\u0435\u0439\\react\\reactproject1\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EF036ABC-AB60-4FBB-83AA-BA5E18BC0600}|reactproject1.esproj|solutionrelative:src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF036ABC-AB60-4FBB-83AA-BA5E18BC0600}|reactproject1.esproj|e:\\\u0430\u043D\u0434\u0440\u0435\u0439\\react\\reactproject1\\src\\vite-env.d.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EF036ABC-AB60-4FBB-83AA-BA5E18BC0600}|reactproject1.esproj|solutionrelative:src\\vite-env.d.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF036ABC-AB60-4FBB-83AA-BA5E18BC0600}|reactproject1.esproj|e:\\\u0430\u043D\u0434\u0440\u0435\u0439\\react\\reactproject1\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EF036ABC-AB60-4FBB-83AA-BA5E18BC0600}|reactproject1.esproj|solutionrelative:src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF036ABC-AB60-4FBB-83AA-BA5E18BC0600}|reactproject1.esproj|e:\\\u0430\u043D\u0434\u0440\u0435\u0439\\react\\reactproject1\\src\\components\\citydistancecalculator.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EF036ABC-AB60-4FBB-83AA-BA5E18BC0600}|reactproject1.esproj|solutionrelative:src\\components\\citydistancecalculator.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF036ABC-AB60-4FBB-83AA-BA5E18BC0600}|reactproject1.esproj|e:\\\u0430\u043D\u0434\u0440\u0435\u0439\\react\\reactproject1\\src\\components\\map.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EF036ABC-AB60-4FBB-83AA-BA5E18BC0600}|reactproject1.esproj|solutionrelative:src\\components\\map.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF036ABC-AB60-4FBB-83AA-BA5E18BC0600}|reactproject1.esproj|e:\\\u0430\u043D\u0434\u0440\u0435\u0439\\react\\reactproject1\\src\\components\\map.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EF036ABC-AB60-4FBB-83AA-BA5E18BC0600}|reactproject1.esproj|solutionrelative:src\\components\\map.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF036ABC-AB60-4FBB-83AA-BA5E18BC0600}|reactproject1.esproj|e:\\\u0430\u043D\u0434\u0440\u0435\u0439\\react\\reactproject1\\src\\components\\citydistancecalculator.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EF036ABC-AB60-4FBB-83AA-BA5E18BC0600}|reactproject1.esproj|solutionrelative:src\\components\\citydistancecalculator.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF036ABC-AB60-4FBB-83AA-BA5E18BC0600}|reactproject1.esproj|e:\\\u0430\u043D\u0434\u0440\u0435\u0439\\react\\reactproject1\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EF036ABC-AB60-4FBB-83AA-BA5E18BC0600}|reactproject1.esproj|solutionrelative:src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF036ABC-AB60-4FBB-83AA-BA5E18BC0600}|reactproject1.esproj|e:\\\u0430\u043D\u0434\u0440\u0435\u0439\\react\\reactproject1\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EF036ABC-AB60-4FBB-83AA-BA5E18BC0600}|reactproject1.esproj|solutionrelative:src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "reactproject1.esproj",
+              "DocumentMoniker": "E:\\\u0410\u043D\u0434\u0440\u0435\u0439\\React\\reactproject1\\reactproject1.esproj",
+              "RelativeDocumentMoniker": "reactproject1.esproj",
+              "ToolTip": "E:\\\u0410\u043D\u0434\u0440\u0435\u0439\\React\\reactproject1\\reactproject1.esproj",
+              "RelativeToolTip": "reactproject1.esproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-30T20:41:02.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launch.json",
+              "DocumentMoniker": "E:\\\u0410\u043D\u0434\u0440\u0435\u0439\\React\\reactproject1\\.vscode\\launch.json",
+              "RelativeDocumentMoniker": ".vscode\\launch.json",
+              "ToolTip": "E:\\\u0410\u043D\u0434\u0440\u0435\u0439\\React\\reactproject1\\.vscode\\launch.json",
+              "RelativeToolTip": ".vscode\\launch.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-30T20:40:43.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "package.json",
+              "DocumentMoniker": "E:\\\u0410\u043D\u0434\u0440\u0435\u0439\\React\\reactproject1\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "E:\\\u0410\u043D\u0434\u0440\u0435\u0439\\React\\reactproject1\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-30T20:25:41.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tsconfig.node.json",
+              "DocumentMoniker": "E:\\\u0410\u043D\u0434\u0440\u0435\u0439\\React\\reactproject1\\tsconfig.node.json",
+              "RelativeDocumentMoniker": "tsconfig.node.json",
+              "ToolTip": "E:\\\u0410\u043D\u0434\u0440\u0435\u0439\\React\\reactproject1\\tsconfig.node.json",
+              "RelativeToolTip": "tsconfig.node.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-30T20:25:38.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tsconfig.app.json",
+              "DocumentMoniker": "E:\\\u0410\u043D\u0434\u0440\u0435\u0439\\React\\reactproject1\\tsconfig.app.json",
+              "RelativeDocumentMoniker": "tsconfig.app.json",
+              "ToolTip": "E:\\\u0410\u043D\u0434\u0440\u0435\u0439\\React\\reactproject1\\tsconfig.app.json",
+              "RelativeToolTip": "tsconfig.app.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-30T20:25:35.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "vite.config.ts",
+              "DocumentMoniker": "E:\\\u0410\u043D\u0434\u0440\u0435\u0439\\React\\reactproject1\\vite.config.ts",
+              "RelativeDocumentMoniker": "vite.config.ts",
+              "ToolTip": "E:\\\u0410\u043D\u0434\u0440\u0435\u0439\\React\\reactproject1\\vite.config.ts",
+              "RelativeToolTip": "vite.config.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-01-30T20:25:31.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "eslint.config.js",
+              "DocumentMoniker": "E:\\\u0410\u043D\u0434\u0440\u0435\u0439\\React\\reactproject1\\eslint.config.js",
+              "RelativeDocumentMoniker": "eslint.config.js",
+              "ToolTip": "E:\\\u0410\u043D\u0434\u0440\u0435\u0439\\React\\reactproject1\\eslint.config.js",
+              "RelativeToolTip": "eslint.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-30T20:25:26.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Map.css",
+              "DocumentMoniker": "E:\\\u0410\u043D\u0434\u0440\u0435\u0439\\React\\reactproject1\\src\\components\\Map.css",
+              "RelativeDocumentMoniker": "src\\components\\Map.css",
+              "ToolTip": "E:\\\u0410\u043D\u0434\u0440\u0435\u0439\\React\\reactproject1\\src\\components\\Map.css",
+              "RelativeToolTip": "src\\components\\Map.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-30T19:46:03.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Map.tsx",
+              "DocumentMoniker": "E:\\\u0410\u043D\u0434\u0440\u0435\u0439\\React\\reactproject1\\src\\components\\Map.tsx",
+              "RelativeDocumentMoniker": "src\\components\\Map.tsx",
+              "ToolTip": "E:\\\u0410\u043D\u0434\u0440\u0435\u0439\\React\\reactproject1\\src\\components\\Map.tsx",
+              "RelativeToolTip": "src\\components\\Map.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-01-30T09:39:03.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.css",
+              "DocumentMoniker": "E:\\\u0410\u043D\u0434\u0440\u0435\u0439\\React\\reactproject1\\src\\App.css",
+              "RelativeDocumentMoniker": "src\\App.css",
+              "ToolTip": "E:\\\u0410\u043D\u0434\u0440\u0435\u0439\\React\\reactproject1\\src\\App.css",
+              "RelativeToolTip": "src\\App.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-30T09:31:02.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "index.css",
+              "DocumentMoniker": "E:\\\u0410\u043D\u0434\u0440\u0435\u0439\\React\\reactproject1\\src\\index.css",
+              "RelativeDocumentMoniker": "src\\index.css",
+              "ToolTip": "E:\\\u0410\u043D\u0434\u0440\u0435\u0439\\React\\reactproject1\\src\\index.css",
+              "RelativeToolTip": "src\\index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-30T09:27:57.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CityDistanceCalculator.css",
+              "DocumentMoniker": "E:\\\u0410\u043D\u0434\u0440\u0435\u0439\\React\\reactproject1\\src\\components\\CityDistanceCalculator.css",
+              "RelativeDocumentMoniker": "src\\components\\CityDistanceCalculator.css",
+              "ToolTip": "E:\\\u0410\u043D\u0434\u0440\u0435\u0439\\React\\reactproject1\\src\\components\\CityDistanceCalculator.css",
+              "RelativeToolTip": "src\\components\\CityDistanceCalculator.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-30T09:26:46.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "index.html",
+              "DocumentMoniker": "E:\\\u0410\u043D\u0434\u0440\u0435\u0439\\React\\reactproject1\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "E:\\\u0410\u043D\u0434\u0440\u0435\u0439\\React\\reactproject1\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-30T09:07:15.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CityDistanceCalculator.tsx",
+              "DocumentMoniker": "E:\\\u0410\u043D\u0434\u0440\u0435\u0439\\React\\reactproject1\\src\\components\\CityDistanceCalculator.tsx",
+              "RelativeDocumentMoniker": "src\\components\\CityDistanceCalculator.tsx",
+              "ToolTip": "E:\\\u0410\u043D\u0434\u0440\u0435\u0439\\React\\reactproject1\\src\\components\\CityDistanceCalculator.tsx",
+              "RelativeToolTip": "src\\components\\CityDistanceCalculator.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-01-30T09:07:00.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "vite-env.d.ts",
+              "DocumentMoniker": "E:\\\u0410\u043D\u0434\u0440\u0435\u0439\\React\\reactproject1\\src\\vite-env.d.ts",
+              "RelativeDocumentMoniker": "src\\vite-env.d.ts",
+              "ToolTip": "E:\\\u0410\u043D\u0434\u0440\u0435\u0439\\React\\reactproject1\\src\\vite-env.d.ts",
+              "RelativeToolTip": "src\\vite-env.d.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-01-30T09:04:16.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "main.tsx",
+              "DocumentMoniker": "E:\\\u0410\u043D\u0434\u0440\u0435\u0439\\React\\reactproject1\\src\\main.tsx",
+              "RelativeDocumentMoniker": "src\\main.tsx",
+              "ToolTip": "E:\\\u0410\u043D\u0434\u0440\u0435\u0439\\React\\reactproject1\\src\\main.tsx",
+              "RelativeToolTip": "src\\main.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-01-30T09:04:14.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.tsx",
+              "DocumentMoniker": "E:\\\u0410\u043D\u0434\u0440\u0435\u0439\\React\\reactproject1\\src\\App.tsx",
+              "RelativeDocumentMoniker": "src\\App.tsx",
+              "ToolTip": "E:\\\u0410\u043D\u0434\u0440\u0435\u0439\\React\\reactproject1\\src\\App.tsx",
+              "RelativeToolTip": "src\\App.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-01-30T09:04:04.516Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

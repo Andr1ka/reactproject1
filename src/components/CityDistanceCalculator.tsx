@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import axios from 'axios';
 import Map from './Map';
-import './CityDistanceCalculator.css';
+import './styles/CityDistanceCalculator.css';
 
 const OPENCAGE_API_KEY = '796915aee49648e7a8352b60cf96ad6f';
 

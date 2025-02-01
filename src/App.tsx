@@ -1,6 +1,6 @@
 import React from 'react';
 import CityDistanceCalculator from './components/CityDistanceCalculator';
-import './App.css';
+import './styles/App.css';
 
 const App: React.FC = () => {
     return (

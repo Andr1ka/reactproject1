@@ -1,7 +1,7 @@
 import React from 'react';
 import { MapContainer, TileLayer, Marker, Popup, Polyline } from 'react-leaflet';
 import 'leaflet/dist/leaflet.css';
-import './Map.css'; 
+import './styles/Map.css'; 
 
 interface MapProps {
     coord1: { lat: number; lng: number };
